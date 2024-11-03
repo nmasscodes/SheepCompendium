@@ -1,5 +1,5 @@
 from fastapi.testclient import TestClient
-from main import app
+from main
 from models.db import db
 from models.models import Sheep
 
